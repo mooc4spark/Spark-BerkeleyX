@@ -1,4 +1,3 @@
-Known issues:
 1) 'DataFrame' object has no attribute 'map'
 `mydf.map() --> mydf.rdd.map()`
 
