@@ -1,3 +1,7 @@
+
+All the labs have been tested on PySpark 2.1.0
+Reference labs are based on Spark 1.6.1
+
 1) 'DataFrame' object has no attribute 'map'
 `mydf.map() --> mydf.rdd.map()`
 
